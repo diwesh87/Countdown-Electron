@@ -1,0 +1,14 @@
+{
+  "name": "ipc-demo",
+  "version": "1.0.0",
+  "description": "Electron Desktop App demo",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Diwesh Saxena",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.1"
+  }
+}
